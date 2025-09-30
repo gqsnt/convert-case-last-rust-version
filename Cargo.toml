@@ -21,5 +21,5 @@ panic = 'abort'
 random = ["rand"]
 
 [dependencies]
-rand = { version = "^0.8", optional = true }
-unicode-segmentation = "1.9.0"
+rand = { version = "0.9", optional = true }
+unicode-segmentation = "1.12.0"
